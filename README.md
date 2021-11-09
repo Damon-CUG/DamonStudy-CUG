@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamonStudy-CUG
-- 🌱 I’m currently learning python3
-
+- 📈 I’m currently learning python3
+- 👷‍♂️ I'm exploring NLP techniques recently
 
 <!---
 DamonStudy-CUG/DamonStudy-CUG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @DamonStudy-CUG
-- 📈 I’m currently learning python3
+- 👋 Hi, I’m @Damon
 
 <!---
 DamonStudy-CUG/DamonStudy-CUG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
